@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataParadigm", "DataParadigm\DataParadigm.csproj", "{D51B44E5-325F-410D-B7C3-20A3B5B8E8BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA.Core", "FNA\FNA.Core.csproj", "{99F9A3A3-3F3D-4301-B832-71376DEB6A75}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{D51B44E5-325F-410D-B7C3-20A3B5B8E8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D51B44E5-325F-410D-B7C3-20A3B5B8E8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D51B44E5-325F-410D-B7C3-20A3B5B8E8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99F9A3A3-3F3D-4301-B832-71376DEB6A75}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{99F9A3A3-3F3D-4301-B832-71376DEB6A75}.Debug|Any CPU.Build.0 = Debug|x64
+		{99F9A3A3-3F3D-4301-B832-71376DEB6A75}.Release|Any CPU.ActiveCfg = Release|x64
+		{99F9A3A3-3F3D-4301-B832-71376DEB6A75}.Release|Any CPU.Build.0 = Release|x64
 	EndGlobalSection
 EndGlobal
